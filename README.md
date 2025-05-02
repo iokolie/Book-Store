@@ -2,6 +2,16 @@
 
 A new Flutter project.
 
+
+Screenshots of the app are in the repository
+
+
+
+
+
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
